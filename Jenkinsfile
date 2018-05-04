@@ -1,8 +1,8 @@
 #! groovy
 node{
- stage('Source'){
+ /*stage('Source'){
      git 'https://github.com/srikanth20/ant_web_new.git'
- }
+ }*/
  
  stage('Build'){
     
